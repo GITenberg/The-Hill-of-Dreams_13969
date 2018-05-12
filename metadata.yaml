@@ -1,0 +1,32 @@
+_repo: The-Hill-of-Dreams_13969
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+description: "The Hill of Dreams is a semi-autobiographical novel written by Arthur\
+  \ Machen.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13969'
+  wikidata: Q1394147
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Fiction'
+- !lcc 'PR'
+title: The Hill of Dreams
+url: http://www.gutenberg.org/ebooks/13969
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Colline_des_r%C3%AAves
+- https://en.wikipedia.org/wiki/The_Hill_of_Dreams
